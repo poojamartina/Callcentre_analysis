@@ -11,3 +11,10 @@ Demonstrated expertise in data visualization by creating Power BI dashboards tha
 Strong communication skills reflected in concise and informative email communication with engagement partners, delivering valuable insights and actionable suggestions based on data analysis.
 
 Leveraged analytical problem-solving skills to examine HR data, mainly focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data-driven decision-making.
+
+
+This was incredibly useful to learn about how to use PowerBI more effectively.
+
+I practiced creating a Power BI dashboard for visualizing key performance indicators (KPIs) and metrics.
+
+Doing this program confirmed that I really enjoy working with data visualization using Microsoft PowerBI for diversity and inclusion in the corporate world, and I’m excited to apply these skills at a company like PwC.
